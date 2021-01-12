@@ -1,3 +1,3 @@
 # setup-and-configure-a-cloud-environment-GCP
 
-Please follow all the steps which i written on challenge lab file.
+Please follow all the steps which i have wrote on challenge lab file.
